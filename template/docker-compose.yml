@@ -1,0 +1,5 @@
+version: "3.8"
+
+services:
+  ui:
+    image: cypress/base:latest

@@ -20,6 +20,7 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/warnings',
     'plugin:editorconfig/all',
+    'prettier',
   ],
   plugins: [
     'editorconfig',
